@@ -1,2 +1,2 @@
 # PWA_Angular_Task
-using web serice 
+using web serivce 
